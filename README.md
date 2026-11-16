@@ -30,3 +30,14 @@ git push -u origin main
 ```
 
 The first push opens a GitHub sign-in window. Sign in there yourself.
+
+## Claude Code commands
+
+Open Git Bash in this folder, run `claude`, then type one of these:
+
+- `/v3-check` walks the pre-open checklist and the four trade questions
+- `/v3-log` logs one day into the Obsidian log and shows the stats
+- `/v3-stats` runs both stats scripts
+- `/v3-backtest` runs the backtest on your NinjaTrader export
+
+`CLAUDE.md` holds the rules every AI in this folder must follow. Paste it into Duet and Hermes too.
